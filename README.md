@@ -12,6 +12,6 @@ Sample website with plenty of files for demos
 
 ## How To Continue
 
-a
+Please fork this repository and then issue Pull Requests for review.
 
 2023.Git.Training
